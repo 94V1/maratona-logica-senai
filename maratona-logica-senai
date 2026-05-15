@@ -8,3 +8,6 @@ A divisão Inteira (/) identifica o número do lote atual. Divide o índice do i
 A indentação organiza visualmente a hierarquia do código, o que permite que a equipe entenda a estrutura instantaneamente.
 O bloco SE (Verdadeiro) executa uma ação de controle se o valor do sensor atingir ou ultrapassar o limite crítico definido. Ao mesmo tempo que o bloco SENÃO (Falso) faz uma ação de normalidade ou espera caso o valor medido esteja dentro da faixa segura.
 Os comentários explicam a intenção por trás de lógicas complexas no ambiente profissional. Eles agilizam a manutenção do sistema e ajudam novos programadores a entender o código rapidamente.
+
+
+Tentei colocar os arquivos do portugol aqui mas não consegui. Por isso, estou mandando do jeito que costumavamos fazer.
