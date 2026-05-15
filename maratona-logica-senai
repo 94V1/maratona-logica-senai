@@ -4,3 +4,7 @@ Os Operadores lógicos funcionam como "regras" que o sistema usa para permitir o
 Estrutura de Repetição é um comando que permite executar instruções várias vezes, de forma automática, até que uma condição específica seja atingida.
 O laço "para", é usado quando já se tem definido quantas vezes a tarefa será repetida, já "enquanto" indica um comando que se repetirá até que um fator externo atenda a condição predefinida.
 Um loop infinito ocorre quando a condição para um laço de repetição terminar nunca é atingida. Em softwares industriais, existe o risco de diversos problemas, como travamentos ou até uma sobrecarga de hardware.
+A divisão Inteira (/) identifica o número do lote atual. Divide o índice do item pelo tamanho do lote, ignorando o resto. Enquanto o operador Módulo (%) identifica a posição exata do item dentro daquele lote específico. Retorna o resto da divisão.
+A indentação organiza visualmente a hierarquia do código, o que permite que a equipe entenda a estrutura instantaneamente.
+O bloco SE (Verdadeiro) executa uma ação de controle se o valor do sensor atingir ou ultrapassar o limite crítico definido. Ao mesmo tempo que o bloco SENÃO (Falso) faz uma ação de normalidade ou espera caso o valor medido esteja dentro da faixa segura.
+Os comentários explicam a intenção por trás de lógicas complexas no ambiente profissional. Eles agilizam a manutenção do sistema e ajudam novos programadores a entender o código rapidamente.
